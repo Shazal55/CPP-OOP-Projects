@@ -1,0 +1,16 @@
+All functions to be incuded
+1.book a room
+2.checkout room
+3. display room detail
+4.input customer details
+5.display customer
+6.calculate bill
+7.confirm booking
+8. display booking
+9.show available room
+10.show all bookings
+11.Main menu
+12.addRoom
+13. remove a room
+14.update room price
+15. view all rooms
